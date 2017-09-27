@@ -21,3 +21,17 @@ Fue realizada en Laravel 5.5 con Laravel Collective, utilizando una plantilla de
 La ruta hacia el controlador es: `app\Http\Controllers\Correos.php`.
 
 Dirección de la página: `http://localhost:8000` Dirección del Administrador: `http://localhost:8000/admin`
+
+Parte de la configuracion de mi archivo .env para los correos :
+
+`MAIL_DRIVER=smtp`
+
+`MAIL_HOST=smtp.gmail.com`
+
+`MAIL_PORT=587`
+
+`MAIL_USERNAME=`
+
+`MAIL_PASSWORD=`
+
+`MAIL_ENCRYPTION=tls`
