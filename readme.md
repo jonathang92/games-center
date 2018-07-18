@@ -1,4 +1,4 @@
-# Pagina web: Game Center
+# Pagina web: Game Center (desarrollo para un test)
 
 ========
 
